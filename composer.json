@@ -1,0 +1,11 @@
+{
+    "name": "pcat/auth",
+    "autoload": {
+        "psr-4": {
+            "Pcat\\Auth\\": "src/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
