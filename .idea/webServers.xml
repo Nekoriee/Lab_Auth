@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="de88e50d-c58f-43a3-9886-410e500f5720" name="YaCloud">
+        <fileTransfer accessType="SFTP" host="84.201.138.157" port="22" sshConfigId="89f92b72-81ed-4e46-9e5c-8de3add77901" sshConfig="pcat@84.201.138.157:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
